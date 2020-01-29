@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c80aa53b-f06e-4761-aba7-53a0b9c43149" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Profile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580245903595</updated>
-      <workItem from="1580245904766" duration="5042000" />
+      <workItem from="1580245904766" duration="5730000" />
+      <workItem from="1580298218156" duration="1191000" />
+      <workItem from="1580315624967" duration="125000" />
+      <workItem from="1580334240207" duration="4876000" />
     </task>
     <servers />
   </component>
@@ -90,13 +93,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="623" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580337173499">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1580337173499" />
     <state x="436" y="184" key="IDE.errors.dialog" timestamp="1580246002658">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="436" y="184" key="IDE.errors.dialog/0.0.1920.1032@0.0.1920.1032" timestamp="1580246002658" />
-    <state x="351" y="56" key="SettingsEditor" timestamp="1580250891116">
+    <state x="351" y="56" key="SettingsEditor" timestamp="1580336055949">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="351" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1580250891116" />
+    <state x="351" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1580336055949" />
+    <state x="0" y="0" width="887" height="1032" key="find.popup" timestamp="1580337100780">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="0" y="0" width="887" height="1032" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1580337100780" />
   </component>
 </project>
